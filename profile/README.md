@@ -40,7 +40,7 @@ This GitHub organization contains all the core repositories that power Sound Doc
 | `sdo-devops` | Infrastructure-as-code, CI/CD workflows, secrets, and environment provisioning (e.g., for Azure, Cloudflare, etc.). |
 -->
 
-🔒 Some repositories may be private/internal due to security and deployment concerns.
+> 🔒 Some repositories may be private/internal due to security and deployment concerns.
 
 ---
 
@@ -48,7 +48,7 @@ This GitHub organization contains all the core repositories that power Sound Doc
 
 The flagship cross-platform client for Sound Doctrine Online.
 
-> 📍 See full README: [sdo-multiplatform/README.md](https://github.com/sounddoctrine-de/sdo-multiplatform/README.md)
+> 📍 See full README: [sdo-multiplatform/README.md](https://github.com/sounddoctrine-de/sdo-multiplatform/blob/main/README.md)
 
 ### Highlights
 - Built using **Kotlin Multiplatform**
