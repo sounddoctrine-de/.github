@@ -29,6 +29,9 @@ This GitHub organization contains all the core repositories that power Sound Doc
 | Repository | Description |
 |-----------|-------------|
 | [**sdo-multiplatform**](https://github.com/sound-doctrine-online/sdo-multiplatform) | Kotlin Multiplatform app targeting Android, iOS, Desktop, and Web. |
+| [**sdo-keystone**](https://github.com/sounddoctrine-de/sdo-keystone) | Admin content management app powered by Keystone JS. |
+| [**sdo-firebase**](https://github.com/sounddoctrine-de/sdo-firebase) | Firebase configuration repository. |
+
 <!--
 | `sdo-backend` | (Private/internal) GraphQL backend, authentication, and media APIs. |
 | `sdo-content-pipeline` | Tools and scripts for ingesting, processing, and uploading content. |
@@ -36,12 +39,8 @@ This GitHub organization contains all the core repositories that power Sound Doc
 | `sdo-media-hosting` | Static hosting scripts, CDN configuration, and asset storage automation. |
 | `sdo-devops` | Infrastructure-as-code, CI/CD workflows, secrets, and environment provisioning (e.g., for Azure, Cloudflare, etc.). |
 -->
-| [**sdo-keystone**](https://github.com/sounddoctrine-de/sdo-keystone) | Admin content management app powered by Keystone JS. |
-| [**sdo-firebase**](https://github.com/sounddoctrine-de/sdo-firebase) | Firebase configuration repository. |
 
- |
-
-> 🔒 Some repositories may be private/internal due to security and deployment concerns.
+🔒 Some repositories may be private/internal due to security and deployment concerns.
 
 ---
 
