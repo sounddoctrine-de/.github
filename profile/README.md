@@ -81,7 +81,7 @@ The flagship cross-platform client for Sound Doctrine Online.
 
 Each repository contains its own detailed documentation. Start with:
 - [`sdo-multiplatform/README.md`](https://github.com/sound-doctrine-online/sdo-multiplatform/blob/main/README.md)
-- Internal developer guides in the `sdo-devops` and `sdo-backend` repos (if access is available)
+<!-- - Internal developer guides in the `sdo-devops` and `sdo-backend` repos (if access is available) -->
 
 ---
 
