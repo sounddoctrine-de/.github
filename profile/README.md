@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://sounddoctrine.online">Website</a> •
   <a href="https://apps.apple.com/in/app/sound-doctrine-online/id6443919279">iOS App</a> •
-  <a href="https://github.com/sounddoctrine-de">GitHub Org</a>
+  <a href="http://sdo-keystone.onrender.com">Admin App</a>
 </p>
 
 ---
